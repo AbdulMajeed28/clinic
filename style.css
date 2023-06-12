@@ -7,6 +7,11 @@
     list-style: none;
     text-decoration: none;
 }
+body{
+    
+    background-image: url(backgound.jpeg);
+    background-size: 100%;
+}
 
 header {
     position: fixed;
