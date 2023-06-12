@@ -158,11 +158,6 @@ header.sticky {
     box-shadow: 0px 0px 10px rgb(0 0 0 / 10%);
 }
 /* content*/
-
-.contact {
-    background-color: #f3f4f6;
-}
-
 .contact-info {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(160px, auto));
@@ -172,9 +167,6 @@ header.sticky {
 .first-info img {
     width: 140px;
     height: auto;
-}
-.contact-info{
-    background-color: #565656c1
 }
 
 .contact-info h4 {
